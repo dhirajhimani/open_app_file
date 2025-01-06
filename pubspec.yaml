@@ -24,11 +24,11 @@ flutter:
         pluginClass: OpenAppFile
         fileName: web/open_app_file.dart
       windows:
-        pluginClass: OpenAppFile
+        dartPluginClass: OpenAppFile
         fileName: plaform/open_app_file.dart
       linux:
-        pluginClass: OpenAppFile
+        dartPluginClass: OpenAppFile
         fileName: plaform/open_app_file.dart
       macos:
-        pluginClass: OpenAppFile
+        dartPluginClass: OpenAppFile
         fileName: plaform/open_app_file.dart
