@@ -21,10 +21,10 @@ flutter:
       ios:
         pluginClass: OpenAppFilePlugin
       web:
-        default_package: open_app_file
+        dartPluginClass: OpenAppFile
       windows:
-        default_package: open_app_file
+        dartPluginClass: OpenAppFile
       linux:
-        default_package: open_app_file
+        dartPluginClass: OpenAppFile
       macos:
-        default_package: open_app_file
+        dartPluginClass: OpenAppFile
