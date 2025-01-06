@@ -20,9 +20,15 @@ flutter:
         pluginClass: OpenAppFilePlugin
       ios:
         pluginClass: OpenAppFilePlugin
+      web:
+        pluginClass: OpenAppFile
+        fileName: web/open_app_file.dart
       windows:
-        dartPluginClass: OpenAppFile
+        pluginClass: OpenAppFile
+        fileName: plaform/open_app_file.dart
       linux:
-        dartPluginClass: OpenAppFile
+        pluginClass: OpenAppFile
+        fileName: plaform/open_app_file.dart
       macos:
-        dartPluginClass: OpenAppFile
+        pluginClass: OpenAppFile
+        fileName: plaform/open_app_file.dart
